@@ -1,0 +1,97 @@
+.main_background_image{
+    background-color: #F5F7FF;
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    align-items: center;
+    
+}
+
+/* .center_illustration_hero{
+    align-items: center;
+} */
+
+.illustration-hero{
+    
+}
+
+/* .hero_upper_image{
+    align-items: center;
+} */
+
+.center_part{
+  margin: auto auto 7% auto;
+  width: 32.5%;
+  padding: 40px;
+  background-color: #ffffff;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  box-shadow: 2px 2px 2px 2px #E0E8FF;
+}
+
+.radius{
+    border-radius: 2%;
+}
+.center{
+    
+}
+.center_title{
+    text-align: center;
+}
+.center_subtitle{
+    text-align: center;
+    padding-top: 2%;
+    color: #797A7E;
+}
+
+.center_illustration_hero{
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    margin-top: 7%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 23.1rem;
+    height: auto;
+    box-shadow: 2px 2px 2px 2px #E0E8FF;
+}
+
+.pricing{
+    background-color: #F7F6F2;
+    padding: 5%;
+    border-radius: 1rem;
+    ma
+}
+.music_icon{
+    float: left;
+    margin-right: 4%;
+}
+.package_name{
+    font-weight: bolder;
+}
+.price{
+    font-size: 1rem;
+    color: #797A7E;
+}
+.change{
+    
+    margin-left: 4.5%;
+}
+.btn{
+    position: absolute;
+}
+
+.btn-outline-primary{
+    border: white !important;
+}
+
+.payment{
+    padding: 3% 25%;
+    background-color: #3829E0;
+    border-radius: 1rem;
+    color: #ffffff;
+}
+.cancel_order{
+    padding: 3% 30%;
+    color: #797A7E;
+    font-weight: bold;
+}
